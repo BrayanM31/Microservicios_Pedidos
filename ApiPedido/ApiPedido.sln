@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPedido", "ApiPedido.csproj", "{333CAD95-189E-6456-FE68-5B380A1C2C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{333CAD95-189E-6456-FE68-5B380A1C2C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333CAD95-189E-6456-FE68-5B380A1C2C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333CAD95-189E-6456-FE68-5B380A1C2C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333CAD95-189E-6456-FE68-5B380A1C2C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F769060-12CC-4D79-A27C-3C6A56ABD7A8}
+	EndGlobalSection
+EndGlobal
